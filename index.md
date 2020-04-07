@@ -16,7 +16,7 @@ Definición de la ciencia de datos y herramientas para su aplicación. Habilidad
 * Critical listening and reading
 * Data Science, Machine Learning and AI understanding
 
-#### Open Source tools for Data Science, IBM
+#### Open Source Tools for Data Science, IBM
 Introducción a las herramientas gratuitas y más populares en la ciencia de datos: Jupyter Notebooks, Apache Zeppelin Notebooks, RStudio IDE; así como cuáles son los lenguajes de programación aplicados en cada una de ellas. [Digital Credential](https://www.youracclaim.com/badges/5f4cd75d-c7d0-497b-a992-3b9334fba0a9).
 
 **Skills**
