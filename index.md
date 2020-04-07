@@ -4,7 +4,7 @@
 
 ### Descripción
 
-Estudiante de 9.° de economía en la Universidad Nacional Mayor de San Marcos.
+Estudiante de 9.° ciclo de economía de la UNMSM caracterizado por ser responsable, analítico y proactivo. Experiencia en la gestión, análisis e interpretación de datos. Gran interés en investigación cuantitativa, así como conocimientos sólidos en estadística y teoría económica.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
