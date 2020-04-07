@@ -2,10 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Descripción
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Estudiante de 9.° de economía en la Universidad Nacional Mayor de San Marcos.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
