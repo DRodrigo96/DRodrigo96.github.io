@@ -2,10 +2,10 @@ title: David Rodrigo Sánchez Navarro # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="center">
-  UNMSM
-  +51991571322
-  drodrigosanchezn@gmail.com
-  <a href="https://www.linkedin.com/in/rodrigosanchezn/>LinkedIn</a>
+  UNMSM<br>
+  +51991571322<br>
+  drodrigosanchezn@gmail.com<br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   <p> 
   
 theme: jekyll-theme-minimal
