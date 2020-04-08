@@ -14,9 +14,11 @@
 ---
 
 ### What is Data Science?, IBM
-<p align="justify">Definición de la ciencia de datos y herramientas para su aplicación. Habilidades necesarias para quienes persiguen una carrera en el campo. Cómo intervienen los cientificos de datos en los negocios y qué capacidades los diferencian de otros profesionales.</p>
-[Digital Credential](https://www.youracclaim.com/badges/948e2b78-32f6-4af5-897f-229a5ff1e728).  
-[Certificate](/pdf/1. What is Data Science.pdf).
+<p align="justify">Definición de la ciencia de datos y herramientas para su aplicación. Habilidades necesarias para quienes persiguen una carrera en el campo. Cómo intervienen los cientificos de datos en los negocios y qué capacidades los diferencian de otros profesionales.
+<br><br>
+<a href="https://www.youracclaim.com/badges/948e2b78-32f6-4af5-897f-229a5ff1e728" target="_blank">Digital Credential</a><br>
+<a href="https://drodrigo96.github.io/pdf/1.%20What%20is%20Data%20Science.pdf" target="_blank">Certificate</a>  
+</p>
 
 **Skills**: Critical listening and reading; Data Science, Machine Learning and AI understanding.
 
