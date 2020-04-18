@@ -4,7 +4,7 @@
 
 ## Descripción
 
-<p align="justify">Estudiante de 9.° ciclo de economía en la Universidad Nacional Mayor de San Marcos caracterizado por ser responsable, analítico y proactivo. Experiencia en la gestión, análisis e interpretación de datos. Gran interés en investigación cuantitativa, así como conocimientos sólidos en estadística y teoría económica.</p>
+<p align="justify">Estudiante de 9.° ciclo de economía en la Universidad Nacional Mayor de San Marcos caracterizado por ser responsable, analítico y proactivo. Experiencia en tratamiento, análisis e interpretación de datos. Gran interés en investigación cuantitativa, así como conocimientos sólidos en estadística y teoría económica. En mis ratos libres me gusta ver temas de sociología, economía política y algunos <i>topics<i> de seguridad informática.</p>
 
 ---
 ---
