@@ -9,9 +9,10 @@
 ---
 ---
 
-## [Cursos]
+## Cursos
 
-<p align="justify">Breve descripción de cursos externos orientados a investigación cuantitativa y ciencia de datos que he llevado.</p> [Ver cursos](/sample_page).
+<p align="justify">Breve descripción de cursos externos orientados a investigación cuantitativa y ciencia de datos que he llevado. 
+<a href="https://drodrigo96.github.io/sample_page" target="_blank">Ver cursos</a>.</p>
 
 ---
 
