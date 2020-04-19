@@ -2,14 +2,16 @@
 
 ---
 
-## Descripción
+## Bio
 
 <p align="justify">Soy un estudiante de 9.° ciclo de economía en la Universidad Nacional Mayor de San Marcos. Caracterizado por ser responsable, analítico y proactivo; cuento con experiencia en el tratamiento, análisis e interpretación de datos. Tengo un gran interés en investigación cuantitativa, así como conocimientos sólidos en estadística y teoría económica. En mis ratos libres me gusta ver temas de sociología, economía política y algunos <i>topics</i> de seguridad informática.</p>
 
 ---
 ---
 
-## Cursos
+## [Cursos]
+
+<p align="justify">Breve descripción de cursos externos orientados a investigación cuantitativa y ciencia de datos que he llevado.</p> [Ver cursos](/sample_page).
 
 ---
 
