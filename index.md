@@ -18,7 +18,7 @@
 
 ## Projects
 
-<p align="justify">Una breve colección de algunas cosas que hago con fuentes de información pública se encuentra <i><a href="https://drodrigo96.github.io/projects_page">aquí</a></i>.</p>
+<p align="justify">Una breve colección de algunas cosas que hago con fuentes de información pública se encuentra <a href="https://drodrigo96.github.io/projects_page">aquí</a>.</p>
 
 ---
 ---
