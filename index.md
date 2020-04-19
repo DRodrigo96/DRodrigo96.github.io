@@ -9,9 +9,27 @@
 ---
 ---
 
-## Cursos
+## Courses
 
 <p align="justify">He llevado algunos cursos externos orientados a investigación cuantitativa, ciencia de datos y programación. Podrás ver una breve descripción de casi todos ellos en este <i><a href="https://drodrigo96.github.io/courses_page">link</a></i>.</p>
+
+---
+---
+
+## Projects
+
+<p align="justify">Una breve colección de algunas cosas que hago con fuentes de información pública se encuentra <i><a href="https://drodrigo96.github.io/projects_page">aquí</a></i>.</p>
+
+---
+---
+
+## Skills
+
+### Languages:  
+Spanish, native. English, advanced.
+
+#### Software:  
+MS Office, upper intermediate. Stata, advanced. Python, intermediate. RStudio, basics. MySQL, basics.
 
 ---
 ---
