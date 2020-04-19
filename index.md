@@ -11,8 +11,7 @@
 
 ## Cursos
 
-<p align="justify">Breve descripción de cursos externos orientados a investigación cuantitativa y ciencia de datos que he llevado. 
-<a href="https://drodrigo96.github.io/sample_page">Ver cursos</a>.</p>
+<p align="justify">He llevado algunos cursos externos orientados a investigación cuantitativa, ciencia de datos y programación. Podrás ver una breve descripción de todos ellos en este <i><a href="https://drodrigo96.github.io/sample_page">link</a></i>.</p>
 
 ---
 ---
