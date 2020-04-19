@@ -25,9 +25,11 @@
 
 ## Skills
 
-**Languages:** Spanish, native. English, advanced.
+#### Languages:
+Spanish, native. English, advanced.
 
-**Software:** MS Office, upper intermediate. Stata, advanced. Python, intermediate. RStudio, basics. MySQL, basics.
+#### Software:
+MS Office, upper intermediate. Stata, advanced. Python, intermediate. RStudio, basics. MySQL, basics.
 
 ---
 ---
