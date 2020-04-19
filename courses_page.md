@@ -10,7 +10,7 @@
 ---
 
 ### PCAP - Programming Essentials in Python, Cisco Networking Academy (en curso)
-<p align="justify">Conceptos básicos de programación, sintaxis y semántica del lenguaje Python; así como conceptos universales y técnicas generales de programación de computadoras. Nociones y técnicas fundamentales utilizadas en la programación orientada a objetos.
+<p align="justify">Nociones y técnicas fundamentales utilizadas en la programación orientada a objetos. Conceptos básicos de programación, sintaxis y semántica en el lenguaje Python; así como conceptos universales y técnicas generales de programación de computadoras.
 </p>
 
 **Skills**: Object-oriented programming, Python 3 fundamentals.
