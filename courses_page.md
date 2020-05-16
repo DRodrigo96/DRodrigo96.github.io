@@ -13,7 +13,18 @@
 <p align="justify">Nociones y técnicas fundamentales utilizadas en la programación orientada a objetos. Conceptos básicos de programación, sintaxis y semántica en el lenguaje Python; así como conceptos universales y técnicas generales de programación de computadoras.
 </p>
 
-**Skills**: Object-oriented programming, Python 3 fundamentals.
+**Skills**: Object-oriented Programming, Python 3 Fundamentals.
+
+---
+
+### Data Science Professional Certificate, IBM
+<p align="justify">Programa de 9 cursos que cubren temas de ciencia de datos que incluyen: herramientas y bibliotecas de código abierto, metodologías, Python 3, bases de datos relacionales, SQL, visualización de datos, análisis de datos y aprendizaje automático.
+<br><br>
+<a href="https://www.youracclaim.com/badges/5ed4c314-da67-4353-b7d2-3b21ae894782" target="_blank">Digital Credential</a><br>
+<a href="https://drodrigo96.github.io/ibmcourses_page">Detalle</a>
+</p>
+
+**Skills**: Python 3, SQL, Data Science, Machine Learning.
 
 ---
 
@@ -24,7 +35,7 @@
 <a href="https://drodrigo96.github.io/pdf/9.%20070520ADSC.pdf" target="_blank">Certificate</a> 
 </p>
 
-**Skills**: Python 3, data science, data analysis, graphical visualization, machine learning, clustering.
+**Skills**: Python 3, Data Science, Data Analysis, Graphical Visualization, Machine Learning, Clustering.
 
 ---
 
@@ -45,7 +56,7 @@
 <a href="https://drodrigo96.github.io/pdf/10.%20180420MLIDDEA.pdf" target="_blank">Certificate</a> 
 </p>
 
-**Skills**: CRISP-DM methodology, RStudio, machine learning in R, Python 3, Scikit-learn.
+**Skills**: CRISP-DM Methodology, RStudio, Machine Learning in R, Python 3, Scikit-learn.
 
 ---
 
@@ -78,7 +89,7 @@
 <a href="https://drodrigo96.github.io/pdf/5.%20280320DSQLDS.pdf" target="_blank">Certificate</a> 
 </p>
 
-**Skills**: Relational databases, SQL, Python 3, Db2.
+**Skills**: Relational Databases, SQL, Python 3, Db2.
 
 ---
 
@@ -100,7 +111,7 @@
 <a href="https://drodrigo96.github.io/pdf/3.%20150320DSM.pdf" target="_blank">Certificate</a> 
 </p>
 
-**Skills**: Data science methodology, Jupyter Notebook.
+**Skills**: Data Science Methodology, Jupyter Notebook.
 
 ---
 
@@ -122,7 +133,7 @@
 <a href="https://drodrigo96.github.io/pdf/1.%20150320WDS.pdf" target="_blank">Certificate</a>  
 </p>
 
-**Skills**: Critical listening and reading; data science, machine learning and AI understanding.
+**Skills**: Critical Listening and Reading, Data Science, Machine Learning and AI Understanding.
 
 ---
 
@@ -132,7 +143,7 @@
 <a href="https://drodrigo96.github.io/pdf/11.%20250519SPE.pdf" target="_blank">Certificate</a>  
 </p>
 
-**Skills**: Stata 15, data management, data analysis, graphical visualization, quantitative research techniques.
+**Skills**: Stata 15, Data Management, Data Analysis, Graphical Visualization, Quantitative Research Techniques.
 
 ---
 ---
