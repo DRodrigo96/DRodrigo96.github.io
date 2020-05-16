@@ -16,7 +16,7 @@
 <a href="https://drodrigo96.github.io/pdf/9.%20070520ADSC.pdf" target="_blank">Certificate</a> 
 </p>
 
-**Skills**: Python 3, data science, data analysis, graphical visualization, machine learning, clustering.
+**Skills**: Python 3, Data Science, Data Analysis, Graphical Visualization, Machine Learning, Clustering.
 
 ---
 
@@ -60,7 +60,7 @@
 <a href="https://drodrigo96.github.io/pdf/5.%20280320DSQLDS.pdf" target="_blank">Certificate</a> 
 </p>
 
-**Skills**: Relational databases, SQL, Python 3, Db2.
+**Skills**: Relational Databases, SQL, Python 3, Db2.
 
 ---
 
@@ -82,7 +82,7 @@
 <a href="https://drodrigo96.github.io/pdf/3.%20150320DSM.pdf" target="_blank">Certificate</a> 
 </p>
 
-**Skills**: Data science methodology, Jupyter Notebook.
+**Skills**: Data Science Methodology, Jupyter Notebook.
 
 ---
 
@@ -104,7 +104,7 @@
 <a href="https://drodrigo96.github.io/pdf/1.%20150320WDS.pdf" target="_blank">Certificate</a>  
 </p>
 
-**Skills**: Critical listening and reading; data science, machine learning and AI understanding.
+**Skills**: Critical Listening and Reading, Data Science, Machine Learning and AI Understanding.
 
 ---
 ---
