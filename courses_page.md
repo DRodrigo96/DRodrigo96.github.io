@@ -21,7 +21,7 @@
 <p align="justify">Programa de 9 cursos que cubren temas de ciencia de datos que incluyen: herramientas y bibliotecas de código abierto, metodologías, Python 3, bases de datos relacionales, SQL, visualización de datos, análisis de datos y aprendizaje automático.
 <br><br>
 <a href="https://www.youracclaim.com/badges/5ed4c314-da67-4353-b7d2-3b21ae894782" target="_blank">Digital Credential</a><br>
-<a href="https://drodrigo96.github.io/ibmcourses_page">Detalle</a>
+<a href="https://drodrigo96.github.io/ibmcourses_page">Detalle de cursos</a>
 </p>
 
 **Skills**: Python 3, SQL, Data Science, Machine Learning.
