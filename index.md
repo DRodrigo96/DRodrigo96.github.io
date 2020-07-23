@@ -4,14 +4,14 @@
 
 ## Bio
 
-<p align="justify">Soy un estudiante de 9.° ciclo de economía en la Universidad Nacional Mayor de San Marcos. Caracterizado por ser responsable, analítico y proactivo; cuento con experiencia en análisis e interpretación de datos. Tengo un gran interés en investigación cuantitativa, así como conocimientos sólidos en estadística. En mis ratos libres me gusta ver temas de sociología, economía política y algunos <i>topics</i> de seguridad informática.</p>
+<p align="justify">Estudiante de 9.° ciclo de economía en la Universidad Nacional Mayor de San Marcos. Caracterizado por ser responsable, analítico y proactivo; cuento con —algo de— experiencia en análisis e interpretación de datos. Tengo un gran interés en investigación cuantitativa, así como en <i>data science for social good</i>. En mis ratos libres me gusta ver temas de sociología, economía política y algunos <i>topics</i> de seguridad informática.</p>
 
 ---
 ---
 
 ## Courses
 
-<p align="justify">He llevado algunos cursos externos orientados a investigación cuantitativa, ciencia de datos y programación. Podrás ver una breve descripción de casi todos ellos en este <i><a href="https://drodrigo96.github.io/courses_page">link</a></i>.</p>
+<p align="justify">He llevado algunos cursos externos orientados a investigación cuantitativa, ciencia de datos y programación. Una breve descripción de casi todos ellos se encuentra en este <i><a href="https://drodrigo96.github.io/courses_page">link</a></i>.</p>
 
 ---
 ---
