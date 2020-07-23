@@ -3,7 +3,7 @@
 # Projects
 <p align="justify">Por añadir...
 <br><br>
-<i>Projects are fun.</i>
+
 </p>
 
 
