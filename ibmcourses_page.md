@@ -3,7 +3,7 @@
 # Data Science Professional Certificate, IBM
 <p align="justify">Detalle de los nueve cursos que componen el programa (orden descendente).
 <br><br>
-<i>Courses are fun.</i>
+
 </p>
 
 ---
