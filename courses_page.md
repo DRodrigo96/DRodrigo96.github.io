@@ -9,8 +9,20 @@
 ---
 ---
 
-### PCAP - Programming Essentials in Python, Cisco Networking Academy (en curso)
+### Data Analyst with Python, DataCamp (en curso)
+<p align="justify">Herramientas básicas e intermedias para realizar análisis de datos y visualizaciones a través del lenguaje Python 3. Introducción al modelo relacional de bases de datos mediante el lenguaje SQL.
+<br><br>
+<a href="https://drodrigo96.github.io/pdf/12.%030620ENPCAPF.pdf" target="_blank">Certificate</a>
+</p>
+
+**Skills**: Python 3, SQL, Data Analysis, Graphical Visualization, Relational Databases.
+
+---
+
+### PCAP - Programming Essentials in Python, Cisco Networking Academy
 <p align="justify">Nociones y técnicas fundamentales utilizadas en la programación orientada a objetos. Conceptos básicos de programación, sintaxis y semántica en el lenguaje Python; así como conceptos universales y técnicas generales de programación de computadoras.
+<br><br>
+<a href="https://drodrigo96.github.io/pdf/12.%030620ENPCAPF.pdf" target="_blank">Certificate</a>
 </p>
 
 **Skills**: Object-oriented Programming, Python 3 Fundamentals.
