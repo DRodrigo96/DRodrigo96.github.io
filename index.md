@@ -35,7 +35,7 @@ Empresa dedicada a brindar servicios de consultoría económica. Practicante pre
 Spanish, native. English, advanced.
 
 #### Software
-MS Office, upper intermediate. Stata, advanced. Python, intermediate. RStudio, basics. MySQL, basics.
+MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.
 
 ---
 ---
