@@ -8,14 +8,14 @@
 
 ### Estudios
 <p align="justify">Economía, Universidad Nacional Mayor de San Marcos.
-<br></br>  
+<br><br>
 Desde abril de 2015 hasta la actualidad. Fecha esperada de egreso: marzo 2021.  
 Quinto superior. Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Transversal y Datos de Panel, Sociología, Economía Política, Distribución y Desigualdad, y Desarrollo Económico.
 </p>
 
 ### Prácticas
 <p align="justify"><b>Macroconsult</b>, empresa dedicada a brindar servicios de consultoría económica.
-<br></br>
+<br><br>
 Practicante preprofesional de estudios económicos en el área de Desarrollo Económico y Social. Participé en estudios de evaluación de impacto. Entre mis actividades se encontraron la revisión de literatura afín a las intervenciones, y gestión de bases de datos. También participé de forma indirecta en otros proyectos ocupándome principalmente de la estimación de indicadores. Estuve en la empresa en dos oportunidades: desde octubre de 2018 hasta marzo de 2019, y desde enero de 2020 hasta julio del mismo año.
 </p>
 
