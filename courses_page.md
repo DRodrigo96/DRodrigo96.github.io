@@ -1,6 +1,6 @@
 [Atrás](https://drodrigo96.github.io/)
 
-# Courses
+# Cursos
 <p align="justify">Aquí se encuentra la descripción de casi todos los cursos complementarios que he llevado en los últimos dos años.
 <br><br>
 
