@@ -8,7 +8,7 @@
 
 #### Estudios
 <p align="justify"><b>Economía, Universidad Nacional Mayor de San Marcos</b><br>
-Desde abril de 2015 hasta la actualidad. Quinto superior. Fecha esperada de egreso: marzo 2021<br>
+Desde abril de 2015 hasta la actualidad. Quinto superior. Fecha esperada de egreso: marzo 2021.<br>
 Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Transversal y Datos de Panel, Sociología, Economía Política, Distribución y Desigualdad, y Desarrollo Económico.
 </p>
 
