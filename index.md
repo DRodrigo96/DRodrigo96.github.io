@@ -53,11 +53,11 @@ Spanish, native. English, advanced.
 
 ---
 
-<img src="images/GraficoProximidad.png?raw=true" width="550" height="451" />
+<img src="images/GraficoProximidad.png?raw=true" width="450" height="369" />
 
 ---
 
-<img src="images/GraficoComponentes.png?raw=true" width="550" height="446" />
+<img src="images/GraficoComponentes.png?raw=true" width="450" height="364" />
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
