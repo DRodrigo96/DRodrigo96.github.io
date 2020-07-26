@@ -49,7 +49,7 @@ MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate
 ---
 ---
 
-<img src="images/GraficoPorta.png?raw=true" width="1388" height="1030" />
+<img src="images/GraficoPorta.png?raw=true" width="450" height="333" />
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
