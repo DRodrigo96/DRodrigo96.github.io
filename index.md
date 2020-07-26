@@ -43,6 +43,9 @@ Spanish, native. English, advanced.
 #### Software
 MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.
 
+<p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="300" height="291" /></p>
+
+
 ---
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
