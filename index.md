@@ -49,7 +49,7 @@ Spanish, native. English, advanced.
 ---
 ---
 
-<img src="images/GraficoMapa.png?raw=true" width="450" height="678" />
+<img src="images/GraficoMapa.png?raw=true" width="400" height="603" />
 
 ---
 
