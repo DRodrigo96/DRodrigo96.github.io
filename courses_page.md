@@ -37,7 +37,7 @@
 <a href="https://www.youracclaim.com/badges/5ed4c314-da67-4353-b7d2-3b21ae894782" target="_blank">Digital Credential</a>
 </p>
 
-**Skills**: Python 3, SQL, Data Science, Machine Learning.
+**Skills**: Python 3, SQL, Data Science, Machine Learning. 
 
 ---
 
