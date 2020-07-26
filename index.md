@@ -49,15 +49,15 @@ Spanish, native. English, advanced.
 ---
 ---
 
-<img src="images/GraficoMapa.png?raw=true" width="350" height="527" />
+<p style="text-align:center;"><img src="images/GraficoMapa.png?raw=true" width="320" height="481" /></p>
 
 ---
 
-<img src="images/GraficoProximidad.png?raw=true" width="450" height="369" />
+<p style="text-align:center;"><img src="images/GraficoProximidad.png?raw=true" width="450" height="369" /></p>
 
 ---
 
-<img src="images/GraficoComponentes.png?raw=true" width="450" height="364" />
+<p style="text-align:center;"><img src="images/GraficoComponentes.png?raw=true" width="450" height="364" /></p>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
