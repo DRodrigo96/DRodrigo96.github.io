@@ -21,7 +21,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 
 ## Prácticas
 ### Macroconsult
-<img src="images/LogoMacroconsult.png?raw=true" width="270" height="64" />
+<img src="images/LogoMacroconsult.png?raw=true" width="220" height="53" />
 <p align="justify">Empresa dedicada a brindar servicios de consultoría económica. Practicante preprofesional de estudios económicos en el área de Desarrollo Económico y Social; participé en proyectos de evaluación de impacto. Entre mis actividades se encontraron la revisión de literatura afín a las intervenciones, y gestión de bases de datos. También participé de forma indirecta en otros proyectos ocupándome principalmente de la estimación de indicadores. Estuve en la empresa en dos oportunidades: desde octubre de 2018 hasta marzo de 2019, y desde enero de 2020 hasta julio del mismo año.
 </p>
 
@@ -48,5 +48,8 @@ MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate
 
 ---
 ---
+
+<img src="images/GraficoPorta.png?raw=true" width="550" height="407" />
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
