@@ -32,7 +32,7 @@
 ---
 
 ### Data Visualization with Python
-<p align="justify">Introducción a herramientas para visualización de datos, mejores prácticas para visualizar <i>data</i>, historia y arquitectura de Matplotlib, y plotting básico. Herramientas básicas y especializadas de visualización. Visualización avanzada y de datos geoespaciales.
+<p align="justify">Introducción a herramientas para visualización de datos, mejores prácticas para visualizar <i>data</i>, historia y arquitectura de Matplotlib, y <i>plotting</i> básico. Herramientas básicas y especializadas de visualización. Visualización avanzada y de datos geoespaciales.
 <br><br>
 <a href="https://www.youracclaim.com/badges/69d7cab9-e11f-4aec-b28c-e5a45e03b9b4" target="_blank">Digital Credential</a><br>
 
