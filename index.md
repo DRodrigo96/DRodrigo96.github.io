@@ -41,7 +41,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 Spanish, native. English, advanced.
 
 ### Software
-MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.
+<p align="justify">MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.</p>
 
 <p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="220" height="213" /></p>
 
@@ -49,7 +49,16 @@ MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate
 ---
 ---
 
-<img src="images/GraficoPorta.png?raw=true" width="450" height="333" />
+<img src="images/GraficoMapa.png?raw=true" width="450" height="678" />
 
+---
+
+<img src="images/GraficoProximidad.png?raw=true" width="550" height="451" />
+
+---
+
+<img src="images/GraficoComponentes.png?raw=true" width="550" height="446" />
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
