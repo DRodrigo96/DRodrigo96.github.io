@@ -10,9 +10,9 @@
 ---
 
 ## Estudios
-<p align="justify"><b>Economía, Universidad Nacional Mayor de San Marcos</b><br>
-<img src="images/LogoSanmarcos.png?raw=true" width="270" height="71" /><br>
-Desde abril de 2015 hasta la actualidad. Quinto superior. Fecha esperada de egreso: marzo 2021.<br>
+### Economía, Universidad Nacional Mayor de San Marcos
+<img src="images/LogoSanmarcos.png?raw=true" width="270" height="71" />
+<p align="justify">Desde abril de 2015 hasta la actualidad. Quinto superior. Fecha esperada de egreso: marzo 2021.<br>
 Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Transversal y Datos de Panel, Sociología, Economía Política, Distribución y Desigualdad, y Desarrollo Económico.
 </p>
 
@@ -20,9 +20,9 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 ---
 
 ## Prácticas
-<p align="justify"><b>Macroconsult</b><br>
-<img src="images/LogoMacroconsult.png?raw=true" width="210" height="61" /><br>
-Empresa dedicada a brindar servicios de consultoría económica. Practicante preprofesional de estudios económicos en el área de Desarrollo Económico y Socia; participé en proyectos de evaluación de impacto. Entre mis actividades se encontraron la revisión de literatura afín a las intervenciones, y gestión de bases de datos. También participé de forma indirecta en otros proyectos ocupándome principalmente de la estimación de indicadores. Estuve en la empresa en dos oportunidades: desde octubre de 2018 hasta marzo de 2019, y desde enero de 2020 hasta julio del mismo año.
+### Macroconsult
+<img src="images/LogoMacroconsult.png?raw=true" width="210" height="61" />
+<p align="justify">Empresa dedicada a brindar servicios de consultoría económica. Practicante preprofesional de estudios económicos en el área de Desarrollo Económico y Social; participé en proyectos de evaluación de impacto. Entre mis actividades se encontraron la revisión de literatura afín a las intervenciones, y gestión de bases de datos. También participé de forma indirecta en otros proyectos ocupándome principalmente de la estimación de indicadores. Estuve en la empresa en dos oportunidades: desde octubre de 2018 hasta marzo de 2019, y desde enero de 2020 hasta julio del mismo año.
 </p>
 
 ---
