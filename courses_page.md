@@ -10,7 +10,7 @@
 ---
 
 ### Data Analyst with Python, DataCamp (en curso)
-<img src="images/LogoDatacamp.png?raw=true"/>
+<img src="images/LogoDatacamp.png?raw=true" width="250" height="56" />
 <p align="justify">Herramientas básicas e intermedias para realizar análisis de datos y visualizaciones a través del lenguaje Python 3. Introducción al modelo relacional de bases de datos mediante el lenguaje SQL.
 
 </p>
@@ -19,8 +19,19 @@
 
 ---
 
+### SQL Server, Grupo Lambda (en curso)
+<img src="images/LogoLambda.png?raw=true" width="210" height="50" />
+
+<p align="justify">Programa de SQL básico e intermedio. Conceptos del modelo relacional de bases de datos, y gestión de datos estructurados mediante el lenguaje SQL. Procedimientos para realizar consultas y subconsultas, y corrección de errores.
+
+</p>
+
+**Skills**: SQL Server, Relational Databases.
+
+---
+
 ### PCAP - Programming Essentials in Python, Cisco Networking Academy
-<img src="images/LogoCisco.png?raw=true"/>
+<img src="images/LogoCisco.png?raw=true" width="140" height="70" />
 <p align="justify">Nociones y técnicas fundamentales utilizadas en la programación orientada a objetos. Conceptos básicos de programación, sintaxis y semántica en el lenguaje Python; así como conceptos universales y técnicas generales de programación de computadoras.
 <br><br>
 <a href="https://drodrigo96.github.io/pdf/12.%20030620ENPCAPF.pdf" target="_blank">Certificate</a>
@@ -53,7 +64,7 @@
 ---
 
 ### Stata para economistas: herramientas para la econometría, Económica-PUCP
-<img src="images/LogoEconomica.png?raw=true"/>
+<img src="images/LogoEconomica.png?raw=true" width="100" height="100" />
 <p align="justify">Programación, gestión de bases de datos, aplicación de herramientas cuantitativas y modelos econométricos en el <i>software</i> Stata 15.
 <br><br>
 <a href="https://drodrigo96.github.io/pdf/11.%20250519SPE.pdf" target="_blank">Certificate</a>  
