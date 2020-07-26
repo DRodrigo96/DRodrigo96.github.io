@@ -42,7 +42,7 @@
 ---
 
 ### Data Science Professional Certificate, IBM [(detalle de cursos)](https://drodrigo96.github.io/ibmcourses_page)
-<img src="images/LogoIBM.png?raw=true" width="160" height="66" />
+<img src="images/LogoIBM.png?raw=true" width="140" height="56" />
 <p align="justify">Programa de 9 cursos que cubren temas de ciencia de datos que incluyen: herramientas y bibliotecas de código abierto, metodologías, Python 3, bases de datos relacionales, SQL, visualización de datos, análisis de datos y aprendizaje automático.
 <br><br>
 <a href="https://www.youracclaim.com/badges/5ed4c314-da67-4353-b7d2-3b21ae894782" target="_blank">Digital Credential</a>
