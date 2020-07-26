@@ -22,7 +22,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 # Prácticas
 ### Macroconsult
 <img src="images/LogoMacroconsult.png?raw=true" width="220" height="53" />
-<p align="justify">Empresa dedicada a brindar servicios de consultoría económica. Practicante preprofesional de estudios económicos en el área de Desarrollo Económico y Social; participé en proyectos de evaluación de impacto. Entre mis actividades se encontraron la revisión de literatura afín a las intervenciones, y gestión de bases de datos. También participé de forma indirecta en otros proyectos ocupándome principalmente de la estimación de indicadores. Estuve en la empresa en dos oportunidades: desde octubre de 2018 hasta marzo de 2019, y desde enero de 2020 hasta julio del mismo año.
+<p align="justify">Empresa dedicada a brindar servicios de consultoría económica. Como practicante preprofesional de estudios económicos en el área de Desarrollo Económico y Social; participé en proyectos de evaluación de impacto. Entre mis actividades se encontraron la revisión de literatura afín a las intervenciones, y gestión de bases de datos. También participé de forma indirecta en otros proyectos ocupándome principalmente de la estimación de indicadores. Estuve en la empresa en dos oportunidades: desde octubre de 2018 hasta marzo de 2019, y desde enero de 2020 hasta julio del mismo año.
 </p>
 
 ---
