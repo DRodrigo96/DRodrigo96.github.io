@@ -39,9 +39,10 @@
         {% endif %}
       </header>
       <section>
-
-      {{ content }}
-
+        {% if site.logo2 %}
+          <img src="{{site.logo2 | relative_url}}" alt="Logo2" />
+        {% endif %}
+        
       </section>
       <footer>
         {% if site.github.is_project_page %}
