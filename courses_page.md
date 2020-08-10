@@ -19,11 +19,12 @@
 
 ---
 
-### SQL Server, Grupo Lambda (en curso)
+### SQL Server, Grupo Lambda
 <img src="images/LogoLambda.png?raw=true" width="210" height="50" />
 
 <p align="justify">Programa de SQL básico e intermedio. Conceptos del modelo relacional de bases de datos, y gestión de datos estructurados mediante el lenguaje SQL. Procedimientos para realizar consultas y subconsultas, y corrección de errores.
-
+<br><br>
+<a href="https://drodrigo96.github.io/pdf/13.%100820SQLS.pdf" target="_blank">Certificate</a>
 </p>
 
 **Skills**: SQL Server, Relational Databases.
