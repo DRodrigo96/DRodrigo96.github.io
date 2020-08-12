@@ -43,7 +43,7 @@ Spanish, native. English, advanced.
 ### Software
 <p align="justify">MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.</p>
 
-<p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="220" height="213" /></p>
+<p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="170" height="164" /></p>
 
 
 ---
