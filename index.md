@@ -4,7 +4,7 @@
 
 # Bio 
 
-<p align="justify">Estudiante de 9.° ciclo de economía en la Universidad Nacional Mayor de San Marcos. Caracterizado por ser responsable, analítico y proactivo; cuento con experiencia en análisis e interpretación de datos. Formación sólida en estadística, y un gran interés en métodos cuantitativos, así como en <i>data science for social good</i>. En mis ratos libres me gusta ver temas de sociología, economía política y algunos <i>topics</i> de seguridad informática.</p>
+<p align="justify">Estudiante de quinto año de economía en la Universidad Nacional Mayor de San Marcos, caracterizado por ser responsable, analítico y proactivo. Cuento con experiencia en análisis e interpretación de datos; y una formación sólida en estadística e investigación cuantitativa. Gran interés en <i>data science for social good</i> y en <i>business analytics</i>. En mis ratos libres me gusta ver temas de sociología, economía política, y algunos <i>topics</i> de programación y ciberseguridad.</p>
 
 ---
 ---
@@ -12,8 +12,8 @@
 # Estudios
 ### Economía, Universidad Nacional Mayor de San Marcos
 <img src="images/LogoSanmarcos.png?raw=true" width="270" height="71" />
-<p align="justify">Desde abril de 2015 hasta la actualidad. Quinto superior. Fecha esperada de egreso: marzo 2021.<br>
-Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Transversal y Datos de Panel, Sociología, Economía Política, Distribución y Desigualdad, y Desarrollo Económico.
+<p align="justify">Desde abril de 2015 hasta la actualidad. Noveno ciclo, quinto superior. Fecha esperada de egreso: marzo de 2021.<br>
+Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Transversal y Datos de Panel, Informática, Sociología, Economía Política, Distribución y Desigualdad, Desarrollo Económico.
 </p>
 
 ---
