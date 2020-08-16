@@ -55,7 +55,7 @@
 
 ### Machine Learning con R y Python, Grupo IDDEA
 <img src="images/LogoIddea.png?raw=true"/>
-<p align="justify">Conceptualización y metodología del Machine Learning. Modelos de regresión y clasificación en aprendizaje supervisado. Evaluación y validación de modelos.
+<p align="justify">Conceptualización y metodología del <i>machine learning</i>. Modelos de regresión y clasificación en aprendizaje supervisado, y evaluación de modelos.
 <br><br>
 <a href="https://drodrigo96.github.io/pdf/10.%20180420MLIDDEA.pdf" target="_blank">Certificate</a> 
 </p>
