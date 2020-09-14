@@ -31,7 +31,7 @@
 ---
 
 ### Business Statistics and Analysis, Rice University
-<img src="images/LogoRice.png?raw=true" width="115" height="92" />
+<img src="images/LogoRice.png?raw=true" width="190" height="77" />
 <p align="justify">Programa especializado de 5 cursos orientado a consolidar habilidades fundamentales en estadística aplicada.
 <br><br>
 <a href="https://coursera.org/share/52263eba03e777ad086493ed69623562" target="_blank">Certificate</a>
