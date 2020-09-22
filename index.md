@@ -49,6 +49,13 @@ Spanish, native. English, advanced.
 ---
 ---
 
+<p align="center" style="font-size:13px;">
+  COVID-19, contagios por distrito
+  <iframe src="https://drodrigo96.github.io/CONTAGIOS%20COVID19.html" width="400" height="400"></iframe>
+  </p>
+
+---
+
 <p style="text-align:center;"><img src="images/MartozSpeech.png?raw=true" width="400" height="319" /></p>
 
 ---
@@ -62,12 +69,6 @@ Spanish, native. English, advanced.
 ---
 
 <p style="text-align:center;"><img src="images/GraficoComponentes.png?raw=true" width="400" height="323" /></p>
-
----
-
-<p style="text-align:center; font-size:13px;">
-  COVID-19, contagios por distrito</p>
-  <iframe style="display:block;" src="https://drodrigo96.github.io/CONTAGIOS%20COVID19.html" width="500" height="400"></iframe>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
