@@ -10,8 +10,10 @@
 <p align="center" style="font-size:20px; color: black;"><b>Estudios</b></p>
 ### Economía, Universidad Nacional Mayor de San Marcos
 <img src="images/LogoSanmarcos.png?raw=true" width="270" height="71" />
-<p align="justify">Desde abril de 2015 hasta la actualidad. 9.º ciclo, quinto superior. Fecha esperada de egreso: marzo de 2021.<br>
-Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Transversal y Datos de Panel, Informática, Sociología, Economía Política, Distribución y Desigualdad, Desarrollo Económico.
+<p align="justify">Desde abril de 2015 hasta la actualidad. 9.º ciclo, quinto superior. Fecha esperada de egreso: marzo de 2021.
+  <br>
+  <br>
+Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Transversal y Datos de Panel, Informática, Sociología.
 </p>
 
 ---
