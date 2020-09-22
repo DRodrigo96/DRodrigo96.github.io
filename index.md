@@ -61,7 +61,7 @@ Spanish, native. English, advanced.
 
 ---
 
-<p style="text-align:center;"><img src="images/GraficoComponentes.png?raw=true" width="400" height="323" /></p>
+<p style="text-align:center;"><img src="images/GraficoComponentes.png?raw=true" width="600" height="323" /></p>
 
 ---
 
