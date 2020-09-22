@@ -65,7 +65,7 @@ Spanish, native. English, advanced.
 
 ---
 
-<iframe src="https://drodrigo96.github.io/CONTAGIOS%20COVID19.html"></iframe>
+<iframe style="text-align:center;" src="https://drodrigo96.github.io/CONTAGIOS%20COVID19.html" width="400" height="400"></iframe>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
