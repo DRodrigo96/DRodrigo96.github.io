@@ -1,4 +1,4 @@
-<p align="center" style="font-size:30px; color: black;"></b>Resume</b></p>
+<p align="center" style="font-size:30px; color: black;"><b>Resume</b></p>
 
 ---
 
@@ -28,7 +28,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 
 <p align="center" style="font-size:20px; color: black;"><b>Cursos</b></p>
 
-<p align="justify">He llevado algunos cursos externos orientados a investigación cuantitativa, ciencia de datos y programación. Una breve descripción de —casi— todos ellos se encuentra en este <i><a href="https://drodrigo96.github.io/courses_page">link</a></i>.</p>
+<p align="justify">He llevado algunos cursos externos orientados a investigación cuantitativa, ciencia de datos y programación. Una breve descripción de —casi— todos ellos se encuentra en el siguiente link: <a href="https://drodrigo96.github.io/courses_page">CURSOS</a>.</p>
 
 ---
 ---
