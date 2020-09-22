@@ -52,7 +52,8 @@ Spanish, native. English, advanced.
 <p align="center" style="font-size:13px;">
   COVID-19, contagios por distrito
   <br>
-  <iframe src="https://drodrigo96.github.io/CONTAGIOS%20COVID19.html" width="450" height="400"></iframe>
+  <br>
+  <iframe src="https://drodrigo96.github.io/COVID19.html" width="400" height="400"></iframe>
   </p>
 
 ---
