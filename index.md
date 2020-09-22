@@ -47,7 +47,7 @@ Spanish, native. English, advanced.
 ---
 ---
 
-<p align="center" style="font-size:13px;">
+<p align="center" style="font-size:13px; color:black;">
   COVID-19, contagios por distrito
   <br>
   <br>
