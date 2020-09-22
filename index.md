@@ -1,4 +1,4 @@
-<p align="center" style="font-size:30px; color: black;">Resume</b></p>
+<p align="center" style="font-size:30px; color: black;"></b>Resume</b></p>
 
 ---
 
