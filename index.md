@@ -9,7 +9,7 @@
 ---
 ---
 
-<p align="center" style="font-size:15px;"><b>Estudios</b></p>
+<p align="center" style="font-size:20px; color: black;"><b>Estudios</b></p>
 ### Economía, Universidad Nacional Mayor de San Marcos
 <img src="images/LogoSanmarcos.png?raw=true" width="270" height="71" />
 <p align="justify">Desde abril de 2015 hasta la actualidad. 9.º ciclo, quinto superior. Fecha esperada de egreso: marzo de 2021.<br>
@@ -19,7 +19,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 ---
 ---
 
-<p align="center" style="font-size:15px;"><b>Prácticas</b></p>
+<p align="center" style="font-size:20px; color: black;"><b>Prácticas</b></p>
 ### Macroconsult
 <img src="images/LogoMacroconsult.png?raw=true" width="220" height="53" />
 <p align="justify">Empresa dedicada a brindar servicios de consultoría económica. Como practicante preprofesional de estudios económicos en el área de Desarrollo Económico y Social; participé en proyectos de evaluación de impacto. Entre mis actividades se encontraron la revisión de literatura afín a las intervenciones, y gestión de bases de datos. También participé de forma indirecta en otros proyectos ocupándome principalmente de la estimación de indicadores. Estuve en la empresa en dos oportunidades: desde octubre de 2018 hasta marzo de 2019, y desde enero de 2020 hasta julio del mismo año.
@@ -28,18 +28,16 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 ---
 ---
 
-# Cursos
+<p align="center" style="font-size:20px; color: black;"><b>Cursos</b></p>
 
 <p align="justify">He llevado algunos cursos externos orientados a investigación cuantitativa, ciencia de datos y programación. Una breve descripción de —casi— todos ellos se encuentra en este <i><a href="https://drodrigo96.github.io/courses_page">link</a></i>.</p>
 
 ---
 ---
 
-# Skills
-
+<p align="center" style="font-size:20px; color: black;"><b>Skills</b></p>
 ### Idiomas
 Spanish, native. English, advanced.
-
 ### Software
 <p align="justify">MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.</p>
 
