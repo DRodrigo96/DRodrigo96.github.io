@@ -61,11 +61,11 @@ Spanish, native. English, advanced.
 
 ---
 
-<p style="text-align:center;"><img src="images/GraficoComponentes.png?raw=true" width="600" height="323" /></p>
+<p style="text-align:center;"><img src="images/GraficoComponentes.png?raw=true" width="400" height="323" /></p>
 
 ---
 
-<iframe style="text-align:center;" src="https://drodrigo96.github.io/CONTAGIOS%20COVID19.html" width="400" height="400"></iframe>
+<iframe style="text-align:center;" src="https://drodrigo96.github.io/CONTAGIOS%20COVID19.html" width="600" height="400"></iframe>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
