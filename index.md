@@ -65,7 +65,9 @@ Spanish, native. English, advanced.
 
 ---
 
-<iframe style="text-align:center;" src="https://drodrigo96.github.io/CONTAGIOS%20COVID19.html" width="600" height="400"></iframe>
+<p style="text-align:center; font-size:13px;">
+  COVID-19, contagios por distrito</p>
+  <iframe style="display:block;" src="https://drodrigo96.github.io/CONTAGIOS%20COVID19.html" width="500" height="400"></iframe>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
