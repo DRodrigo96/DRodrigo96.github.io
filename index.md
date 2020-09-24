@@ -52,23 +52,43 @@ Spanish, native. English, advanced.
   <br>
   <br>
   <iframe src="https://drodrigo96.github.io/COVID19.html" width="400" height="400"></iframe>
-  </p>
+ </p>
 
 ---
 
-<p style="text-align:center;"><img src="images/MartozSpeech.png?raw=true" width="400" height="319" /></p>
+<p align="center" style="font-size:13px; color:black;">
+  Un nuevo premier. ¿Qué dijo Walter Martos?
+  <br>
+  <br>
+  <img src="images/MartozSpeech.png?raw=true" width="400" height="319" />
+ </p>
 
 ---
 
-<p style="text-align:center;"><img src="images/GraficoMapa.png?raw=true" width="320" height="481" /></p>
+<p align="center" style="font-size:13px; color:black;">
+  PE: Educación e ingreso 2019
+  <br>
+  <br>
+  <img src="images/GraficoMapa.png?raw=true" width="320" height="481" />
+</p>
 
 ---
 
-<p style="text-align:center;"><img src="images/GraficoProximidad.png?raw=true" width="400" height="328" /></p>
+<p align="center" style="font-size:13px; color:black;">
+  Índice de proximidad física por sector económico
+  <br>
+  <br>
+  <img src="images/GraficoProximidad.png?raw=true" width="400" height="328" />
+</p>
 
 ---
 
-<p style="text-align:center;"><img src="images/GraficoComponentes.png?raw=true" width="400" height="323" /></p>
+<p align="center" style="font-size:13px; color:black;">
+  Componentes del ingreso en los hogares peruanos
+  <br>
+  <br>
+  <img src="images/GraficoComponentes.png?raw=true" width="400" height="323" />
+</p>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca">evanca</a></p>
