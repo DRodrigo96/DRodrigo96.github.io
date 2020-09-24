@@ -87,7 +87,7 @@ Spanish, native. English, advanced.
   Componentes del ingreso en los hogares peruanos
   <br>
   <br>
-<img style="width: 400px; height: 260px;" src="images/GraficoComponentes.svg" />
+<svg style="width: 400px; height: 260px;" src="images/GraficoComponentes.svg" />
 </p>
 
 ---
