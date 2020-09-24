@@ -48,7 +48,7 @@ Spanish, native. English, advanced.
 ---
 
 <p align="center" style="font-size:13px; color:black;">
-  <a href="https://github.com/DRodrigo96/SomeProjects/tree/master/Contagio%20COVID-19">COVID-19.PE: contagios por distrito</a>
+  <a href="https://nbviewer.jupyter.org/github/DRodrigo96/SomeProjects/blob/master/Contagio%20COVID-19/Covid19%20Mapa%20Distrital.ipynb">COVID-19.PE: contagios por distrito</a>
   <br>
   <br>
   <iframe src="https://drodrigo96.github.io/COVID19.html" width="400" height="400"></iframe>
@@ -67,7 +67,7 @@ Spanish, native. English, advanced.
 ---
 
 <p align="center" style="font-size:13px; color:black;">
-  <a href="https://github.com/DRodrigo96/SomeProjects/tree/master/Martos%20WordCloud">Un nuevo premier, ¿qué dijo Walter Martos?</a>
+  <a href="https://nbviewer.jupyter.org/github/DRodrigo96/SomeProjects/blob/master/Martos%20WordCloud/MartosCloud.ipynb">Un nuevo premier, ¿qué dijo Walter Martos?</a>
   <br>
   <br>
   <img src="images/MartozSpeech.svg" width="400" height="278" />
