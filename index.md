@@ -60,7 +60,7 @@ Spanish, native. English, advanced.
   Un nuevo premier. ¿Qué dijo Walter Martos?
   <br>
   <br>
-  <img src="images/MartozSpeech.png?raw=true" width="400" height="319" />
+  <img src="images/MartozSpeech.png?raw=true" width="400" height="277" />
  </p>
 
 ---
@@ -69,7 +69,7 @@ Spanish, native. English, advanced.
   PE: Educación e ingreso 2019
   <br>
   <br>
-  <img src="images/GraficoMapa.png?raw=true" width="320" height="481" />
+  <img src="images/GraficoMapa.png?raw=true" width="400" height="585" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Spanish, native. English, advanced.
   Índice de proximidad física por sector económico
   <br>
   <br>
-  <img src="images/GraficoProximidad.png?raw=true" width="400" height="328" />
+  <img src="images/GraficoProximidad.png?raw=true" width="400" height="267" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Spanish, native. English, advanced.
   Componentes del ingreso en los hogares peruanos
   <br>
   <br>
-  <img src="images/GraficoComponentes.png?raw=true" width="400" height="323" />
+  <img src="images/GraficoComponentes.png?raw=true" width="400" height="260" />
 </p>
 
 ---
