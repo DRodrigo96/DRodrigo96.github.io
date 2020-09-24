@@ -69,7 +69,7 @@ Spanish, native. English, advanced.
   PE: Educación e ingreso 2019
   <br>
   <br>
-  <img src="images/GraficoMapa.png?raw=true" width="400" height="585" />
+  <img src="images/GraficoMapa.png?raw=true" width="273" height="400" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Spanish, native. English, advanced.
   Componentes del ingreso en los hogares peruanos
   <br>
   <br>
-  <img src="images/GraficoComponentes.png?raw=true" width="400" height="260" />
+  <img src="images/GraficoComponentes.png?raw=true" width="500" height="325" />
 </p>
 
 ---
