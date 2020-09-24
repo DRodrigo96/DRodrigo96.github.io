@@ -48,7 +48,7 @@ Spanish, native. English, advanced.
 ---
 
 <p align="center" style="font-size:13px; color:black;">
-  COVID-19, contagios por distrito
+  <a href="https://github.com/DRodrigo96/SomeProjects/tree/master/Contagio%20COVID-19">COVID-19.PE: contagios por distrito</a>
   <br>
   <br>
   <iframe src="https://drodrigo96.github.io/COVID19.html" width="400" height="400"></iframe>
@@ -57,7 +57,7 @@ Spanish, native. English, advanced.
 ---
 
 <p align="center" style="font-size:13px; color:black;">
-  <a href="https://github.com/DRodrigo96/SomeProjects/tree/master/Contagio%20COVID-19">PE: Educación e ingreso provincial 2019</a>
+  Perú: educación e ingreso provincial 2019
   <br>
   <br>
   <img src="images/GraficoMapa.svg" width="307" height="450" />
@@ -67,7 +67,7 @@ Spanish, native. English, advanced.
 ---
 
 <p align="center" style="font-size:13px; color:black;">
-  <a href="https://github.com/DRodrigo96/SomeProjects/tree/master/Martos%20WordCloud">Un nuevo premier. ¿Qué dijo Walter Martos?</a>
+  <a href="https://github.com/DRodrigo96/SomeProjects/tree/master/Martos%20WordCloud">Un nuevo premier, ¿qué dijo Walter Martos?</a>
   <br>
   <br>
   <img src="images/MartozSpeech.svg" width="400" height="278" />
