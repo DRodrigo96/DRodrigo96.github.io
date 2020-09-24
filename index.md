@@ -69,7 +69,7 @@ Spanish, native. English, advanced.
   PE: Educación e ingreso 2019
   <br>
   <br>
-  <img src="images/GraficoMapa.png?raw=true" width="350" height="512" />
+  <img src="images/GraficoMapa.png?raw=true" width="307" height="450" />
 </p>
 
 ---
