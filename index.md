@@ -42,15 +42,6 @@ Spanish, native. English, advanced.
 <p align="justify">MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.</p>
 <!--<p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="170" height="164" /></p>-->
 
-# Bar chart
-{{Bar-Chart}}
-- a:1
-- b:2
-- c: 3
-- a:1
-- b:2
-- c: 3
-
 ---
 ---
 
