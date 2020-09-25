@@ -89,7 +89,7 @@ chart.render();
 }
 </script>
 <!--<p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="170" height="164" /></p>-->
-
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
 
 ---
 ---
