@@ -42,6 +42,7 @@ Spanish, native. English, advanced.
 <p align="justify">MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.</p>
 <!--<p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="170" height="164" /></p>-->
 
+<br>
    <head>
       <script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js">
       </script>
@@ -79,6 +80,7 @@ Spanish, native. English, advanced.
          google.charts.setOnLoadCallback(drawChart);
       </script>
    </body>
+</br>
 
 ---
 ---
