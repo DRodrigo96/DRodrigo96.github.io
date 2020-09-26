@@ -38,10 +38,10 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 <p align="center" style="font-size:20px; color: black;"><b>Skills</b></p>
 ### Idiomas
 Spanish, native. English, advanced.
-### Software
-<p align="justify">MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.</p>
-<!--<p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="170" height="164" /></p>-->
 
+### Software
+<!--<p align="justify">MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.</p>-->
+<!--<p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="170" height="164" /></p>-->
 <br>
    <head>
       <script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js">
