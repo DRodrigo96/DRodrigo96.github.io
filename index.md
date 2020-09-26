@@ -2,13 +2,15 @@
 
 ---
 
-<p align="justify">Estudiante de quinto año de economía en la Universidad Nacional Mayor de San Marcos, caracterizado por ser responsable, analítico y proactivo. Cuento con experiencia en análisis e interpretación de datos; y una formación sólida en estadística e investigación cuantitativa. Gran interés en <i>data science for social good</i> y en <i>analytics</i>. En mis ratos libres me gusta ver temas de sociología, economía política, y algunos <i>topics</i> de programación.</p>
+<p align="justify">Estudiante de quinto año de economía en la Universidad Nacional Mayor de San Marcos, caracterizado por ser responsable, analítico y proactivo. Cuento con experiencia en análisis e interpretación de datos; y una formación sólida en estadística e investigación cuantitativa. Gran interés en <i>data science for social good</i> y <i>analytics</i>. En mis ratos libres me gusta ver temas afines a sociología o programación.</p>
 
 ---
 ---
 
 <p align="center" style="font-size:20px; color: black;"><b>Estudios</b></p>
-### Economía, Universidad Nacional Mayor de San Marcos
+
+<p align="center" style="font-size:14px; color: #727272;"><b>Economía, Universidad Nacional Mayor de San Marcos</b></p>
+
 <!--<img src="images/LogoSanmarcos.png?raw=true" width="270" height="71" />-->
 <p align="justify">Desde abril de 2015 hasta la actualidad. 9.º ciclo, quinto superior. Fecha esperada de egreso: marzo de 2021.
   <br>
@@ -20,9 +22,12 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 ---
 
 <p align="center" style="font-size:20px; color: black;"><b>Prácticas</b></p>
-### Macroconsult
+
+<p align="center" style="font-size:14px; color: #727272;"><b>Macroconsult</b></p>
+
 <!--<img src="images/LogoMacroconsult.png?raw=true" width="220" height="53" />-->
-<p align="justify">Empresa dedicada a brindar servicios de consultoría económica. Como practicante preprofesional de estudios económicos en el área de Desarrollo Económico y Social; participé en proyectos de evaluación de impacto. Entre mis actividades se encontraron la revisión de literatura afín a las intervenciones, y gestión de bases de datos. También participé de forma indirecta en otros proyectos ocupándome principalmente de la estimación de indicadores. Estuve en la empresa en dos oportunidades: desde octubre de 2018 hasta marzo de 2019, y desde enero de 2020 hasta julio del mismo año.
+<p align="justify">
+	Empresa dedicada a brindar servicios de consultoría económica. Como practicante preprofesional de estudios económicos en el área de Desarrollo Económico y Social, entre mis actividades se encontraron la revisión de literatura afín a los proyectos, gestión de bases de datos, y estimación de indicadores socioeconómicos. Estuve en la empresa en dos oportunidades: desde octubre de 2018 hasta marzo de 2019, y desde enero de 2020 hasta julio del mismo año.
 </p>
 
 ---
@@ -30,18 +35,24 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 
 <p align="center" style="font-size:20px; color: black;"><b>Cursos</b></p>
 
-<p align="justify">He llevado algunos cursos externos orientados a investigación cuantitativa, ciencia de datos y programación. Una breve descripción de —casi— todos ellos se encuentra en el siguiente link: <a href="https://drodrigo96.github.io/courses_page">CURSOS</a>.</p>
+<p align="justify">
+	He llevado algunos cursos externos orientados a investigación cuantitativa, ciencia de datos y programación. Una breve descripción de —casi— todos ellos se encuentra en el siguiente link: <a href="https://drodrigo96.github.io/courses_page">CURSOS</a>.
+</p>
 
 ---
 ---
 
 <p align="center" style="font-size:20px; color: black;"><b>Skills</b></p>
 
-### Idiomas
+<p align="center" style="font-size:14px; color: #727272;"><b>Idiomas</b></p>
 
-Spanish, native. English, advanced.
+<p align="center">
+	- Spanish, native
+	<br>
+	- English, advanced	
+	</p>. 
 
-### Software
+<p align="center" style="font-size:14px; color: #727272;"><b>Software</b></p>
 
    <head>
       <title>Google Charts Tutorial</title>
