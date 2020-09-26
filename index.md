@@ -36,6 +36,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 ---
 
 <p align="center" style="font-size:20px; color: black;"><b>Skills</b></p>
+
 ### Idiomas
 
 Spanish, native. English, advanced.
