@@ -40,11 +40,15 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 Spanish, native. English, advanced.
 
 <p align="center" style="font-size:14px; color: black;"><b>Software</b></p>
-
-  <script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js" ></script>
+   <head>
+      <title>Google Charts Tutorial</title>
+      <script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js">
+      </script>
       <script type = "text/javascript">
          google.charts.load('current', {packages: ['corechart']});
       </script>
+   </head>
+   <body>
       <div id = "container" style = "width: 550px; height: 400px; margin: 0 auto">
       </div>
       <script language = "JavaScript">
@@ -70,7 +74,8 @@ Spanish, native. English, advanced.
          }
          google.charts.setOnLoadCallback(drawChart);
       </script>
-
+   </body>
+   
 ---
 ---
 
