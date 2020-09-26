@@ -38,6 +38,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 <p align="center" style="font-size:20px; color: black;"><b>Skills</b></p>
 ### Idiomas
 Spanish, native. English, advanced.
+### Software
 
    <head>
       <title>Google Charts Tutorial</title>
@@ -48,7 +49,6 @@ Spanish, native. English, advanced.
       </script>
    </head>
    <body>
-	<p align="center" style="font-size:14px; color: black;"><b>Software</b></p>
       <div id = "container" style = "width: 550px; height: 400px; margin: 0 auto">
       </div>
       <script language = "JavaScript">
@@ -65,7 +65,7 @@ Spanish, native. English, advanced.
             var options = {
 							hAxis: { textPosition: 'none' , ticks: [0, 1, 2, 3, 4], textStyle:{color: '#FFFFFF'}},
 							legend: {position: 'none'},
-							width: 500, height: 400,
+							width: 400, height: 200,
 							bar: {groupWidth: "70%"},
 							chartArea: { left: 150, right: 5,  width: '100%', height: '100%' },
 					};
