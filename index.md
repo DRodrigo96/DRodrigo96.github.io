@@ -49,25 +49,26 @@ Spanish, native. English, advanced.
       </script>
    </head>
    <body>
-      <div id = "container" style = "width: 550px; height: 400px; margin: 0 auto">
+      <div id = "container" style = "width: 400px; height: 220px; margin: 0 auto">
       </div>
       <script language = "JavaScript">
          function drawChart() {
             // Define the chart to be drawn.
             var data = google.visualization.arrayToDataTable([
                ['Year', 'Nivel', { role: 'tooltip'}, { role: 'style' }],
-               ['MS Office\nStata',  3, 'Upper intermediate', '#DB4437'],
-               ['Python 3',  2, 'Intermediate','#F0BE32'],
-               ['R\nMySQL\nSQL Server',  1, 'Basics', '#2EB67D'],
-							 ['JavaScript\nCSS\nHTML',  0.3, 'Front end is important. Currently working on this!', '#4285F4']
+               ['MS Office -\nStata -',  3, 'Upper intermediate', '#DB4437'],
+               ['Python 3 -',  2, 'Intermediate','#F0BE32'],
+               ['R -\nMySQL -\nSQL Server -',  1, 'Basics', '#2EB67D'],
+							 ['JavaScript -\nCSS-\nHTML -',  0.3, 'Front end is important. Currently working on this!', '#4285F4']
             ]);
 
             var options = {
 							hAxis: { textPosition: 'none' , ticks: [0, 1, 2, 3, 4], textStyle:{color: '#FFFFFF'}},
+							vAxis: { textStyle: { color: '#727272', fontName: 'sans-serif', fontSize: 11, bold: false, italic: false }},
 							legend: {position: 'none'},
 							width: 400, height: 200,
 							bar: {groupWidth: "70%"},
-							chartArea: { left: 150, right: 5,  width: '100%', height: '100%' },
+							chartArea: { left: 110, right: 0, width: '200%', height: '100%' },
 					};
             var chart = new google.visualization.BarChart(document.getElementById('container'));
             chart.draw(data, options);
