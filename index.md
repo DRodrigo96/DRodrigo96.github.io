@@ -50,7 +50,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 	- Spanish, native
 	<br>
 	- English, advanced	
-	</p>. 
+	</p>
 
 <p align="center" style="font-size:14px; color: #727272;"><b>Software</b></p>
 
