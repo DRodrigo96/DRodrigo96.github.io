@@ -39,7 +39,6 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 ### Idiomas
 Spanish, native. English, advanced.
 
-<p align="center" style="font-size:14px; color: black;"><b>Software</b></p>
    <head>
       <title>Google Charts Tutorial</title>
       <script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js">
@@ -68,7 +67,7 @@ Spanish, native. English, advanced.
 							legend: {position: 'none'},
 							width: 500, height: 400,
 							bar: {groupWidth: "70%"},
-							chartArea: { left: 150, right: 5 },
+							chartArea: { left: 150, right: 5,  width: '100%', height: '100%' },
 					};
             var chart = new google.visualization.BarChart(document.getElementById('container'));
             chart.draw(data, options);
