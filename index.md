@@ -42,15 +42,10 @@ Spanish, native. English, advanced.
 ### Software
 <!--<p align="justify">MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.</p>-->
 <!--<p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="170" height="164" /></p>-->
-   <head>
-      <script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js">
-      </script>
+  <script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js" ></script>
       <script type = "text/javascript">
          google.charts.load('current', {packages: ['corechart']});
       </script>
-   </head>
-
-   <body>
       <div id = "container" style = "width: 550px; height: 400px; margin: 0 auto">
       </div>
       <script language = "JavaScript">
@@ -71,14 +66,11 @@ Spanish, native. English, advanced.
 							bar: {groupWidth: "70%"},
 							chartArea: { left: 150, right: 5 },
 					};
-
-            // Instantiate and draw the chart.
             var chart = new google.visualization.BarChart(document.getElementById('container'));
             chart.draw(data, options);
          }
          google.charts.setOnLoadCallback(drawChart);
       </script>
-   </body>
 
 ---
 ---
