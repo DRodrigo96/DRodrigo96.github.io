@@ -68,7 +68,7 @@ Spanish, native. English, advanced.
 							legend: {position: 'none'},
 							width: 400, height: 200,
 							bar: {groupWidth: "70%"},
-							chartArea: { left: 110, right: 0, width: '200%', height: '100%' },
+							chartArea: { left: 80, right: 0, width: '100%', height: '100%' },
 					};
             var chart = new google.visualization.BarChart(document.getElementById('container'));
             chart.draw(data, options);
