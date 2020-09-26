@@ -59,7 +59,7 @@ Spanish, native. English, advanced.
                ['MS Office -\nStata -',  3, 'Upper intermediate', '#DB4437'],
                ['Python 3 -',  2, 'Intermediate','#F0BE32'],
                ['R -\nMySQL -\nSQL Server -',  1, 'Basics', '#2EB67D'],
-							 ['JavaScript -\nCSS-\nHTML -',  0.3, 'Some front end is important.', '#4285F4']
+							 ['JavaScript -\nCSS-\nHTML -',  0.3, 'Some front end is important', '#4285F4']
             ]);
 
             var options = {
