@@ -49,6 +49,7 @@ Spanish, native. English, advanced.
       </script>
    </head>
    <body>
+	<p align="center" style="font-size:14px; color: black;"><b>Software</b></p>
       <div id = "container" style = "width: 550px; height: 400px; margin: 0 auto">
       </div>
       <script language = "JavaScript">
