@@ -42,6 +42,42 @@ Spanish, native. English, advanced.
 <p align="justify">MS Office, upper intermediate. Stata, upper intermediate. Python 3, intermediate. RStudio, basics. SQL/MySQL, basics.</p>
 <!--<p style="text-align:center;"><img src="images/LogosSoftware.png?raw=true" width="170" height="164" /></p>-->
 
+      <script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js">
+      </script>
+      <script type = "text/javascript">
+         google.charts.load('current', {packages: ['corechart']});
+      </script>
+   </head>
+
+   <body>
+      <div id = "container" style = "width: 550px; height: 400px; margin: 0 auto">
+      </div>
+      <script language = "JavaScript">
+         function drawChart() {
+            // Define the chart to be drawn.
+            var data = google.visualization.arrayToDataTable([
+               ['Year', 'Nivel', { role: 'tooltip'}, { role: 'style' }],
+               ['MS Office\nStata',  3, 'Upper intermediate', '#DB4437'],
+               ['Python 3',  2, 'Intermediate','#F0BE32'],
+               ['R\nMySQL\nSQL Server',  1, 'Basics', '#2EB67D'],
+							 ['JavaScript\nCSS\nHTML',  0.3, 'Front end is important. Currently working on this!', '#4285F4']
+            ]);
+
+            var options = {
+							hAxis: { textPosition: 'none' , ticks: [0, 1, 2, 3, 4], textStyle:{color: '#FFFFFF'}},
+							legend: {position: 'none'},
+							width: 500, height: 400,
+							bar: {groupWidth: "70%"},
+							chartArea: { left: 150, right: 5 },
+					};
+
+            // Instantiate and draw the chart.
+            var chart = new google.visualization.BarChart(document.getElementById('container'));
+            chart.draw(data, options);
+         }
+         google.charts.setOnLoadCallback(drawChart);
+      </script>
+
 ---
 ---
 
