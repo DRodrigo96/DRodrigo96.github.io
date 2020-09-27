@@ -62,7 +62,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
          google.charts.load('current', {packages: ['corechart']});
       </script>
    </head>
-   <body>
+   <body style = "margin:0 auto;">
       <div id = "container" style = "width: 400px; height: 220px; margin: 0 auto">
       </div>
       <script language = "JavaScript">
