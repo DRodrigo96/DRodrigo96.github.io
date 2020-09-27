@@ -19,7 +19,7 @@
 
 ---
 
-### Data Science Professional Certificate, IBM [(detalle de cursos)](https://drodrigo96.github.io/ibmcourses_page)
+### Data Science Professional Certificate, IBM <!--[(detalle de cursos)](https://drodrigo96.github.io/ibmcourses_page)}%-->
 <!--<img src="images/LogoIBM.png?raw=true" width="140" height="56" />-->
 <p align="justify">Programa de 9 cursos que cubren temas de ciencia de datos que incluyen: herramientas y bibliotecas de código abierto, metodologías, Python 3, bases de datos relacionales, SQL, visualización de datos, análisis de datos y aprendizaje automático.
 <br><br>
