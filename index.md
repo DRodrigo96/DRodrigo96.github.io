@@ -98,7 +98,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
   <a href="https://nbviewer.jupyter.org/github/DRodrigo96/SomeProjects/blob/master/Contagio%20COVID-19/Covid19%20Mapa%20Distrital.ipynb" target="_blank">COVID-19.PE: contagios por distrito</a>
   <br>
   <br>
-  <iframe src="https://drodrigo96.github.io/COVID19.html" width="400" height="400"></iframe>
+  <iframe style="display:block;" src="https://drodrigo96.github.io/COVID19.html" width="400" height="400"></iframe>
  </p>
 
 ---
