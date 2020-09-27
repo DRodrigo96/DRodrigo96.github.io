@@ -2,7 +2,7 @@
 
 ---
 
-<p align="justify">Estudiante de quinto año de economía en la Universidad Nacional Mayor de San Marcos, caracterizado por ser responsable, analítico y proactivo. Cuento con experiencia en análisis e interpretación de datos; y una formación sólida en estadística e investigación cuantitativa. Gran interés en <i>data science for social good</i> y <i>analytics</i>. En mis ratos libres me gusta ver temas afines a sociología o programación.</p>
+<p align="justify">Estudiante de quinto año de economía en la Universidad Nacional Mayor de San Marcos, caracterizado por ser responsable, analítico y proactivo. Cuento con experiencia en análisis e interpretación de datos; y una formación sólida en estadística e investigación cuantitativa. Gran interés en <i>data science</i> y <i>analytics</i>. En mis ratos libres me gusta ver temas afines a sociología o programación.</p>
 
 ---
 ---
