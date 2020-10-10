@@ -55,7 +55,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
 <p align="center" style="font-size:14px; color: #727272;"><b>Software</b></p>
 
    <head>
-      <title>Google Charts Tutorial</title>
+      <title>Skills Chart</title>
       <script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js">
       </script>
       <script type = "text/javascript">
@@ -72,7 +72,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
                ['Year', 'Nivel', { role: 'tooltip'}, { role: 'style' }],
                ['MS Office -\nStata -',  3, 'Upper intermediate', '#DB4437'],
                ['Python 3 -',  2, 'Intermediate','#F0BE32'],
-               ['R -\nMySQL -\nSQL Server -',  1, 'Basic', '#2EB67D'],
+               ['R -\nMySQL - SQL Server -\n Power BI-',  1, 'Basic', '#2EB67D'],
 							 ['JavaScript -\nCSS-\nHTML -',  0.3, 'Some front end is important', '#4285F4']
             ]);
 
