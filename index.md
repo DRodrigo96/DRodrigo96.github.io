@@ -73,7 +73,7 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
                ['MS Office -\nStata -',  3, 'Upper intermediate', '#DB4437'],
                ['Python 3 -',  2, 'Intermediate','#F0BE32'],
                ['R -\nSQL -\nPower BI -',  1, 'Basic', '#2EB67D'],
-							 ['JavaScript -\nCSS -\nHTML -',  0.3, 'Some front end is important', '#4285F4']
+							 ['JavaScript -\nCSS -\nHTML -',  0.25, 'Some front end is important', '#4285F4']
             ]);
 
             var options = {
