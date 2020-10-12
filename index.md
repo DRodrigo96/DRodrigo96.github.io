@@ -67,13 +67,12 @@ Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Tran
       </div>
       <script language = "JavaScript">
          function drawChart() {
-            // Define the chart to be drawn.
             var data = google.visualization.arrayToDataTable([
                ['Year', 'Nivel', { role: 'tooltip'}, { role: 'style' }],
-               ['MS Office -\nStata -',  3, 'Upper intermediate', '#DB4437'],
-               ['Python 3 -',  2, 'Intermediate','#F0BE32'],
-               ['R -\nSQL -\nPower BI -',  1, 'Basic', '#2EB67D'],
-							 ['JavaScript -\nCSS -\nHTML -',  0.25, 'Some front end is important', '#4285F4']
+               ['MS Office -\nStata -',  3, 'Upper intermediate', '#808080'],
+               ['Python 3 -',  2, 'Intermediate','#999999'],
+               ['R -\nSQL -\nPower BI -',  1, 'Basic', '#B3B3B3'], 
+	       ['HTML -\nCSS -\nJavaScript -',  0.25, 'Some front end skills are important.', '#CCCCCC']
             ]);
 
             var options = {
