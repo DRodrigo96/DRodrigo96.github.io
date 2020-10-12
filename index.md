@@ -13,11 +13,9 @@
 
 <!--<img src="images/LogoSanmarcos.png?raw=true" width="270" height="71" />-->
 <p align="justify">Desde abril de 2015 hasta la actualidad. 10.º ciclo, quinto superior.
-<!--
   <br>
   <br>
-Asignaturas preferidas: Estadística, Microeconomía, Econometría de Corte Transversal y Datos de Panel, Informática, Sociología.
--->
+Asignaturas preferidas: Estadística, Econometría de Corte Transversal y Datos de Panel, Informática, Sociología.
 </p>
 
 ---
