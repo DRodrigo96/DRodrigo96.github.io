@@ -71,8 +71,7 @@ Asignaturas preferidas: Estadística, Econometría de Corte Transversal y Datos 
                ['Year', 'Nivel', { role: 'tooltip'}, { role: 'style' }],
                ['MS Office -\nStata -',  3, 'Upper intermediate', '#808080'],
                ['Python 3 -',  2, 'Intermediate','#999999'],
-               ['R -\nSQL -\nPower BI -',  1, 'Basic', '#B3B3B3'], 
-	       ['HTML -\nCSS -\nJavaScript -',  0.25, 'Some front end skills are important.', '#CCCCCC']
+               ['R -\nSQL -\nPower BI -',  1, 'Basic', '#B3B3B3']
             ]);
 
             var options = {
