@@ -79,7 +79,7 @@ Asignaturas preferidas: Estadística, Econometría de Corte Transversal y Datos 
 							vAxis: { textStyle: { color: '#727272', fontName: 'sans-serif', fontSize: 11, bold: false, italic: false }},
 							legend: {position: 'none'},
 							width: 400, height: 200,
-							bar: {groupWidth: "70%"},
+							bar: {groupWidth: "60%"},
 							chartArea: { left: 80, right: 0, width: '100%', height: '100%' },
 					};
             var chart = new google.visualization.BarChart(document.getElementById('container'));
