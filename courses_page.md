@@ -9,10 +9,11 @@
 ---
 ---
 
-### Data Analyst with Python, DataCamp (en curso)
+### Data Analyst with Python, DataCamp
 <!--<img src="images/LogoDatacamp.png?raw=true" width="250" height="56" />-->
 <p align="justify">Herramientas básicas e intermedias para realizar análisis de datos y visualizaciones a través del lenguaje Python 3. Introducción al modelo relacional de bases de datos mediante el lenguaje SQL.
-
+<br><br>
+<a href="https://www.datacamp.com/statement-of-accomplishment/track/15c50a96dbd786af000f16fdce3a19472b584101" target="_blank">Certificate</a>
 </p>
 
 **Skills**: Python 3, SQL, Data Analysis, Graphical Visualization, Relational Databases.
