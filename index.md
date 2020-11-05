@@ -21,13 +21,20 @@ Asignaturas preferidas: Estadística, Econometría de Corte Transversal y Datos 
 ---
 ---
 
-<p align="center" style="font-size:20px; color: black;"><b>Prácticas</b></p>
+<p align="center" style="font-size:20px; color: black;"><b>Experiencia</b></p>
 
 <p align="center" style="font-size:14px; color: #727272;"><b>Macroconsult</b></p>
 
 <!--<img src="images/LogoMacroconsult.png?raw=true" width="220" height="53" />-->
 <p align="justify">
 	Empresa dedicada a brindar servicios de consultoría económica. Como practicante preprofesional de estudios económicos en el área de Desarrollo Económico y Social, entre mis actividades se encontraron la revisión de literatura afín a los proyectos, gestión de bases de datos, y estimación de indicadores socioeconómicos. Estuve en la empresa en dos oportunidades: desde octubre de 2018 hasta marzo de 2019, y desde enero de 2020 hasta julio del mismo año.
+</p>
+
+<p align="center" style="font-size:14px; color: #727272;"><b>UNESCO</b></p>
+
+<!--<img src="images/LogoMacroconsult.png?raw=true" width="220" height="53" />-->
+<p align="justify">
+	Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. Researcher voluntario del programa Youth as Researchers: exploring the impact of COVID-19. Miembro del Global Well-being Team, en el cual se busca evidencia respecto a los efectos de la pandemia sobre diferentes dimensiones del bienestar, e incorporando información de varios países. Desde octubre de 2020 hasta la fecha.
 </p>
 
 ---
