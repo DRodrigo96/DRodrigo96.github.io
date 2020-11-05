@@ -34,7 +34,7 @@ Asignaturas preferidas: Estadística, Econometría de Corte Transversal y Datos 
 
 <!--<img src="images/LogoMacroconsult.png?raw=true" width="220" height="53" />-->
 <p align="justify">
-	Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. Researcher voluntario del programa Youth as Researchers: exploring the impact of COVID-19. Miembro del Global Well-being Team, en el cual se busca evidencia respecto a los efectos de la pandemia sobre diferentes dimensiones del bienestar, e incorporando información de varios países. Desde octubre de 2020 hasta la fecha.
+	Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. Researcher voluntario del programa Youth as Researchers: exploring the impact of COVID-19. Miembro del Global Well-being Team, en el cual se busca evidencia respecto a los efectos de la pandemia sobre las diferentes dimensiones del bienestar, e incorporando información de varios países. Desde octubre de 2020 hasta la fecha.
 </p>
 
 ---
