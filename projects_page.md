@@ -7,10 +7,4 @@
 </p>
 
 
-
-
-
-
-
-
 [Atrás](https://drodrigo96.github.io/)
