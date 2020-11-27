@@ -1906,6 +1906,23 @@ header .logo a {
 .popup-modal img {
 	vertical-align: bottom;
 }
+.popup-modal iframe {
+	vertical-align: bottom;
+}
+.embed-container {
+    position: relative;
+    padding-bottom: 65.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 .popup-modal .description-box {
 	padding: 1.8rem 3.6rem 3rem;
 }
