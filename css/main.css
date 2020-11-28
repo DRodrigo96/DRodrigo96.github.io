@@ -1621,7 +1621,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #resume {
-	padding-top: 12rem;
+	padding-top: 10rem;
 	padding-bottom: 12rem;
 }
 
@@ -1793,7 +1793,7 @@ header .logo a {
  */
 #portfolio {
 	background: #FFFFFF;
-	padding-top: 12rem;
+	padding-top: 10rem;
 	padding-bottom: 10rem;
 }
 #portfolio .folio-item {
