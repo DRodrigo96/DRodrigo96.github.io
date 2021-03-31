@@ -109,7 +109,8 @@
 
 		containerProjects.masonry( {		  
 		  	itemSelector: '.folio-item',
-		  	resize: true 
+		  	resize: true,
+			 
 		});
 
 	});
